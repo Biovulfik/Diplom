@@ -1,0 +1,121 @@
+{
+    "name": "collapseExpandNewsList",
+    "start": 1744839464373,
+    "stop": 1744839469514,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Ожидание загрузки главной страницы",
+            "start": 1744839464905,
+            "stop": 1744839464905,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку свернуть/развернуть новости",
+            "start": 1744839468443,
+            "stop": 1744839468443,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку свернуть/развернуть новости",
+            "start": 1744839468782,
+            "stop": 1744839468782,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка развернутого списка новостей",
+            "start": 1744839469097,
+            "stop": 1744839469097,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b43fc367-54a2-4051-a6b2-e3912fce0a46",
+    "historyId": "9cf7d2c9b142d16a6349ca722f681c6",
+    "fullName": "ru.iteco.fmhandroid.ui.Test.HomeTest.collapseExpandNewsList",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.Test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.Test.HomeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "collapseExpandNewsList"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.Test.HomeTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(490)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "ТК-9 - Свернуть/развернуть полный список новостей"
+        }
+    ]
+}
